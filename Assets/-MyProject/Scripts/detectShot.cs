@@ -7,7 +7,7 @@ public class detectShot : MonoBehaviour
 
     public ParticleSystem water;
     public int numBulletHoles;
-
+    public int damageAmt = 20;
     
 
     void OnCollisionEnter(Collision collision)
@@ -23,6 +23,12 @@ public class detectShot : MonoBehaviour
             gameObject.SetActive(false);
         }
      }
+
+    void OnHit(Collider other){
+        if(other.tag == "enemy"){
+            other.GetComponent<enemy>().TakeDamage(damageAmt);
+        }
+    }
 
     void Update()
     {

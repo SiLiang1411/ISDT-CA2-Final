@@ -7,6 +7,8 @@ public class chaseState : StateMachineBehaviour
 {
     NavMeshAgent agent;
     Transform player;
+    public PlayerHealth playerHealth;
+    
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
@@ -19,11 +21,16 @@ public class chaseState : StateMachineBehaviour
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
        agent.SetDestination(player.position);
+       Debug.Log("1");
         float distance = Vector3.Distance(player.position,animator.transform.position);
         if (distance >8)
         animator.SetBool("isChasing",false);
-        if(distance <1f)
-        animator.SetBool("isAttacking",true);
+        if(distance <1f){
+            animator.SetBool("isAttacking",true);
+            playerHealth.TakeDamage(50);
+             
+             }
+        
     }
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
