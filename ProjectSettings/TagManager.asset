@@ -13,6 +13,7 @@ TagManager:
   - oilCan
   - bulletHole
   - enemy
+  - WayPoints
   layers:
   - Default
   - TransparentFX
