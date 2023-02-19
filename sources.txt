@@ -1,0 +1,94 @@
+Skybox:
+https://assetstore.unity.com/packages/2d/textures-materials/sky/8k-skybox-pack-free-150926#content
+
+Ground: 
+https://www.poliigon.com/texture/ground-cobblestone-001/6973
+
+Gun Holster:
+https://sketchfab.com/3d-models/nazi-pistol-holster-5912ceb955644bffba9ebaaefe06c8f1#download
+
+Hand Presence:
+https://www.youtube.com/watch?v=8PCNNro7Rt0
+
+Wrist UI:
+https://www.youtube.com/watch?v=YISa0PvQTGk
+
+Bullet Hole:
+https://www.youtube.com/watch?v=glx4qolDnHg
+
+Water Sound Effect:
+https://www.freesoundslibrary.com/waterfall-sounds/#google_vignette
+
+Water Tower:
+https://sketchfab.com/3d-models/free-water-tower-56fbfe448a2a41879c382444b9d1c8e1
+
+Presentation Slides:
+https://slidesgo.com/theme/forest-fire-prevention#search-fire&position-2&results-36&rs=search
+
+Level Select Background:
+https://www.designyourway.net/blog/resources/wood-background-textures/
+
+Water Shader:
+https://assetstore.unity.com/packages/vfx/shaders/urp-stylized-water-shader-proto-series-187485#content
+
+Menu Screen BGM: 
+https://www.melodyloops.com/my-music/longoloops/countryside-story/
+
+Building: https://assetstore.unity.com/packages/3d/environments/industrial/storage-building-50430
+
+Low Poly Bin: https://assetstore.unity.com/packages/3d/low-poly-trashbin-60789
+
+
+Low Poly Well: 
+https://assetstore.unity.com/packages/3d/props/exterior/lowpoly-wells-68437
+
+Fire Extinguisher: https://assetstore.unity.com/packages/3d/props/fire-extinguisher-21147
+
+Props: 
+https://assetstore.unity.com/packages/3d/props/industrial/prop-pack-30963
+https://assetstore.unity.com/packages/3d/props/oil-cans-841
+
+
+Wooden Cart:
+https://assetstore.unity.com/packages/3d/environments/fantasy/wooden-cart-65835
+
+Medieval Buildings:
+https://assetstore.unity.com/packages/3d/environments/medieval-village-building-kit-116540
+https://assetstore.unity.com/packages/3d/environments/fantasy/pbr-medieval-houses-pack-71546
+
+Ground Texture:
+https://assetstore.unity.com/packages/2d/textures-materials/4k-pbr-ground-textures-206354
+
+PBR Crate and Barrel:
+https://assetstore.unity.com/packages/3d/props/exterior/pbr-barrels-and-crates-34608
+
+Slider:
+https://assetstore.unity.com/packages/2d/gui/icons/simple-button-set-01-153979
+
+Fire Texture:
+https://www.filterforge.com/filters/11713.html
+
+Gun:
+https://assetstore.unity.com/packages/3d/props/guns/modern-guns-handgun-129821
+https://www.youtube.com/watch?v=IB-Jf7FdLGs
+
+Sound Icon:
+https://www.onlinewebfonts.com/icon/559340
+Sword Decal:
+https://webstockreview.net/explore/rome-clipart-sword/
+Fire:
+https://www.youtube.com/watch?v=U4EyHhtVUiI
+
+Plants:
+https://assetstore.unity.com/packages/3d/vegetation/plants/simple-decorative-house-plant-213955
+
+Add BGM, connect to volume control
+PArt2 and Part3
+In-Game Quit
+Pause Menu
+
+UI Button:
+https://assetstore.unity.com/packages/2d/gui/buttons-set-211824
+
+Wooden Bucket:
+https://assetstore.unity.com/packages/3d/props/tools/stylized-western-wooden-bucket-191513
