@@ -24,12 +24,6 @@ public class detectShot : MonoBehaviour
         }
      }
 
-    void OnHit(Collider other){
-        if(other.tag == "enemy"){
-            other.GetComponent<enemy>().TakeDamage(damageAmt);
-        }
-    }
-
     void Update()
     {
         numBulletHoles = transform.childCount;

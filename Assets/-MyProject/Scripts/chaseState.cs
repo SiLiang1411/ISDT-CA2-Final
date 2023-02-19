@@ -25,9 +25,10 @@ public class chaseState : StateMachineBehaviour
         float distance = Vector3.Distance(player.position,animator.transform.position);
         if (distance >8)
         animator.SetBool("isChasing",false);
-        if(distance <1f){
+        if(distance < 1f){
+            Debug. Log("test");
             animator.SetBool("isAttacking",true);
-            playerHealth.TakeDamage(50);
+            //playerHealth.TakeDamage(50);
              
              }
         
