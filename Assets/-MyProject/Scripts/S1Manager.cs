@@ -60,6 +60,7 @@ public class S1Manager : MonoBehaviour
             result = "Fail";
             WristUI.SetActive(false);
             winLoseScreen.SetActive(true);
+              _CDText.SetActive(false);
             screenText.text = "Game Over";
             imageComponent.color = Color.gray;
             // _gameOverScreen.SetActive(true);
